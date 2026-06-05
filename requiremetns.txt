@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+groq
+mistralai==1.9.11
+edge-tts
+python-multipart
+langdetect
